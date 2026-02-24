@@ -5,6 +5,8 @@ A sentiment classifier built for the **AIdea Topic List competition**: [https://
 ## Result
 ![result](picture/result.png)
 
+Ranking: **Top 8%** (26 / 327 teams)
+
 ## What It Does
 
 Fine-tunes a pretrained transformer model with long-text handling to classify movie reviews as positive or negative.
